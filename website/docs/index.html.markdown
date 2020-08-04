@@ -8,4 +8,4 @@ description: |-
 
 # AWS Lambda Provider
 
-To be added
+Current AWS provider has only a data source for AWS Lambda invocation. This provider will let you invoke AWS Lambda as a resource.
